@@ -2,7 +2,7 @@
 
 ## People Counter Prototype with Visualization using Grafana
 
-This Software application is part of a Proototype designed for the subject Innovation Lab at the Hochscule Heilbronn. 
+This Software application is part of a Prototype designed for the subject Innovation Lab (Wintersemester 2021/22) at the Hochscule Heilbronn. 
 The prototype counts people (either using a clicker or with sensor data) entering or leaving an event, and this data is then sent to this spring boot server app.
 The app creates custom metrics based on which event the data has been sent from, which can then be pulled via Grafana from Prometheous to be displayed on a dashboard.
 
